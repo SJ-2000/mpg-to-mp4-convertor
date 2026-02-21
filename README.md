@@ -1,6 +1,6 @@
 # MPG to MP4 Converter
 
-Simple Python script to convert MPG files to MP4 using FFmpeg.
+I was trying to convert my videos on my old digicam which was in MPG format to MP4, now there were tons of online convertors available but yea was always running into the issue of running out of free "CREDITS" usage. Got frustated to a point were I decided to make a simple Python script to convert MPG files to MP4 using FFmpeg.
 
 **Prerequisites:**
 - Python 3.8 or newer
