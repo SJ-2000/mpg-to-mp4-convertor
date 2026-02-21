@@ -53,6 +53,3 @@ Adjust the command to match how `convertor.py` accepts input and output paths.
 **Notes**
 - This repository contains `convertor.py`; inspect it to confirm required arguments or dependencies.
 - Add a `requirements.txt` if you want reproducible installs.
-
-**License**
-This project has no license declared. Add one if you plan to publish the code.
